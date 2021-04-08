@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fish__image {
+    width: 20rem;
+}
+
+.location__image {
+    width: 20rem;
+}
+
+.flex-container-left {
+    flex: 3;
+}
+
+.tips {
+    flex: 1;
+}
