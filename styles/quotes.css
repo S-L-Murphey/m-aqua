@@ -1,0 +1,20 @@
+.header--quotes {
+    padding-left: 3rem;
+}
+
+.quotes {
+    display: flex; /*This defines a flex container; inline or block depending on the given value. It enables a flex context for all its direct children.*/
+    flex-wrap: wrap; /*allows items to wrap as needed*/
+    justify-content: space-around; /*defines alignment along the main axis. 'space-around: items are evenly distributed in the line with equal space around them*/
+    background-color: skyblue;
+}
+
+.quote {
+   display: flex;
+   padding: 2rem;
+   border-style: solid;
+   border-color:bisque;
+   border-width: 5px;
+   margin: 1rem;
+   flex-basis: 30%; /*This defines the default size of an element before the remaining space is distributed.*/
+}

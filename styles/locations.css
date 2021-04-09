@@ -1,0 +1,17 @@
+.header--locations {
+    padding-left: 3rem;
+}
+
+.location__image {
+    width: 20rem;
+}
+
+.locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; /*items are distributed so that the spacing between any two items (and the space to the edges) is equal.*/
+    padding-top: 3rem;
+    background-color: skyblue;
+    text-align: center;
+}
+

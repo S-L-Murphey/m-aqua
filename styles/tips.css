@@ -1,0 +1,62 @@
+.tips {
+    flex: 1;
+    margin-left: 5rem;
+    background-color:bisque;
+    padding: 0 2rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+
+.header--tips {
+    text-align: center;
+}
+
+.tips__quint {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.tips__aboutme {
+    margin-top: 2rem;
+}
+
+.tips__orca--title {
+    text-align: center;
+}
+
+.tips__orca--info {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.tips__orca--image {
+    display: block;
+    margin: 0 auto;
+    padding-left: 3rem;
+}
+
+.tips__orca--image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.tips__orca--barrel {
+    text-align: center;
+}
+
+.tips__orca--machete {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.tips__orca--image3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom: 2rem;
+}
